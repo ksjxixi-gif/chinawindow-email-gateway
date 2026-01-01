@@ -1,0 +1,9 @@
+{
+    "name": "china-window-gateway",
+    "version": "1.0.0",
+    "description": "Serverless email gateway for China Window Group",
+    "main": "api/contact.js",
+    "dependencies": {
+        "resend": "^3.0.0"
+    }
+}
